@@ -130,7 +130,7 @@ REPORT_OUTPUT_PATH = "outputs/reports/financial_report.pdf"
 ---
 
 ## **License**
-This project is **open-source** and available under the **MIT License**.
+This project is **open-source**.
 
 ---
 
